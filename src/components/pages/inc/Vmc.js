@@ -25,7 +25,7 @@ function VMS() {
                     </div>
                  
                     <div className="col-md-4">   
-                    <div data-aos="zoom-in-right">
+                   
                         <div  className="card shadow">
                             <img src="photo" alt="" className='w-100 border-bottom' />
                             <div className="card-body">
@@ -40,11 +40,11 @@ function VMS() {
                             </div>
                   </div>
 
-                    </div>
+             
                     </div>
                  
                     <div className="col-md-4">    
-                    <div data-aos="zoom-in-right">
+                   
                         <div  className="card shadow">
                             <img src="photo" alt="" className='w-100 border-bottom' />
                             <div className="card-body">
@@ -57,12 +57,12 @@ function VMS() {
                                 </p>
                                 <Link to="/school" className="btn btn-dark shadow w-100">Read More</Link>
                             </div>
-                        </div>
+                 
 </div>
                     </div>
                    
                     <div className="col-md-4" > 
-                    <div data-aos="zoom-in-right">
+                   
                         <div className="card shadow">
                             <img src="photo" alt="" className='w-100 border-bottom' />
                             <div className="card-body">
@@ -75,7 +75,7 @@ function VMS() {
                                 </p>
                                 <Link to="/work" className="btn btn-dark shadow w-100">Read More</Link>
                             </div>
-                        </div>
+                        
 
                    </div>
                     </div>
