@@ -17,7 +17,7 @@ function Navbar() {
     <nav className="navbar navbar-expand-lg text-light ">
         <div className="container-fluid text-light">
             <img style={style} src={logo} alt="" />
-            <Link to="/" className="navbar-brand text-light">Cacctus Education</Link>
+            <Link to="/" className="navbar-brand text-light">Cacttus Education</Link>
 
             <button className="navbar-toggler bg-light text-light" type="button" data-bs-toggle="collapse" 
             data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

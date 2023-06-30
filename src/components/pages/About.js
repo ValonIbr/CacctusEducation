@@ -44,15 +44,18 @@ function Aboutus() {
                                         <img style={style} src={logo} class=" col-12 col-sm-12 col-md-6 col-lg-6" alt="" />
                                         <div class=" col-12 col-sm-12 col-md-6 col-lg-6" alt="">
 
-                                            <p style={sty}>Cactus Education is a company specialized in providing training and courses in the field of programming.
+                                            <p style={sty}>Cacttus Education is a company specialized in providing training 
+                                            and courses in the field of programming.
                                                 In order to prepare young people and professionals for
-                                                ongoing challenges of the technology industry, Cactus Education offers a two-year school program specializing in programming.
+                                                ongoing challenges of the technology industry, Cacttus Education offers a two-year
+                                                 school program specializing in programming.
 
                                                 In a world where technology develops at great speed, programming skills are increasingly in demand.
-                                                Cactus Education understands the importance of a quality education and has focused its efforts on providing it
+                                                Cacttus Education understands the importance of a quality education and has 
+                                                focused its efforts on providing it
                                                 of a powerful platform to develop students' skills and knowledge in the field of programming.
 
-                                                Cactus Education not only provides a powerful learning but also takes care to provide an environment of support and help for
+                                                Cacttus Education not only provides a powerful learning but also takes care to provide an environment of support and help for
                                                 her students. They follow an individual approach to each student, committed to their success and personal development. In addition, the company partners with various companies in the technology industry to provide internship and employment opportunities upon completion of the program.
 
                                                 Cactus Education is a bold company that aims to build innovative spaces for the development of new programming talent.

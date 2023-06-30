@@ -32,9 +32,11 @@ function VMS() {
                                 <h6>Training</h6>
                                 <div className="underline"></div>
                                 <img style={style} src={training} alt="" />
-                                <p>Cactus Education trainings are suitable for everyone who wants to develop their skills in the field of programming and technology.
+                                <p>Cacttus Education trainings are suitable for everyone who wants to develop their skills
+                                     in the field of programming and technology.
                                      These trainings offer
-                                     a combination of theoretical lectures and practical projects to ensure a complete and advanced experience for students.
+                                     a combination of theoretical lectures and practical projects to ensure a complete
+                                      and advanced experience for students.
                                 </p>
                                 <Link to="/training" className="btn btn-dark shadow w-100">Read More</Link>
                             </div>
@@ -51,8 +53,10 @@ function VMS() {
                                 <h6>School</h6>
                                 <div className="underline"></div>
                                 <img style={style} src={school} alt="" />
-                                <p>Cactus Education is a company specialized in providing training and courses in the field of programming.
-                                                In order to prepare young people and professionals for the ongoing challenges of the technology industry, Cactus Education offers a two-year school program specialized in programming.
+                                <p>Cacttus Education is a company specialized in providing training and courses in the field of programming.
+                                                In order to prepare young people and professionals for the ongoing challenges of 
+                                                the technology industry, Cacttus Education offers a two-year school 
+                                                program specialized in programming.
                                              
                                 </p>
                                 <Link to="/school" className="btn btn-dark shadow w-100">Read More</Link>
@@ -69,8 +73,10 @@ function VMS() {
                                 <h6>Work</h6>
                                 <div className="underline"></div>
                                 <img style={style} src={work} alt="" />
-                                <p>Cactus Education is a company specialized in providing training and courses in the field of programming.
-                                                In order to prepare young people and professionals for the ongoing challenges of the technology industry, Cactus Education offers a two-year school program specialized in programming.
+                                <p>Cacttus Education is a company specialized in providing training and courses in the field of programming.
+                                                In order to prepare young people and professionals for the
+                                                 ongoing challenges of the technology industry, 
+                                                 Cacttus Education offers a two-year school program specialized in programming.
                                                
                                 </p>
                                 <Link to="/work" className="btn btn-dark shadow w-100">Read More</Link>

@@ -31,8 +31,11 @@ function Home() {
                                     <img style={styl} src={logo} class=" col-12 col-sm-12 col-md-6 col-lg-6" alt="" />
                                     <div class=" col-12 col-sm-12 col-md-6 col-lg-6" alt="">
 
-                                        <p style={style} >Cactus Education is a company specialized in providing training and courses in the field of programming.
-                                            In order to prepare young people and professionals for the ongoing challenges of the technology industry, Cactus Education offers a two-year school program specialized in programming.
+                                        <p style={style} >Cacttus Education is a company specialized in providing training and courses 
+                                        in the field of programming.
+                                            In order to prepare young people and professionals for the ongoing 
+                                            challenges of the technology industry, Cacttus Education offers a two-year 
+                                            school program specialized in programming.
                                             In a world where technology develops at great speed, programming skills are increasingly in demand.
                                             Cactus Education understands the importance of a quality education and has focused its efforts on providing it
                                             of a powerful platform to develop students' skills and knowledge in the field of programming.</p>

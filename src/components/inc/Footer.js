@@ -31,7 +31,7 @@ function Footer()  {
                         <h6>Contact Information</h6>
                         <hr />
                          <div><i class="fa fa-location-dot">  Rr. Ukë Bytyqi, 20000 Prizren</i></div>
-                        <div><i class="fa fa-envelope">  cacctuseduaction@giz.com</i></div>
+                        <div><i class="fa fa-envelope">  cacttuseduaction@giz.com</i></div>
                         <div><i class="fab fa-facebook">   Cacttus Education</i></div>
                         <div><i class="fab fa-instagram">   Cacttus.education</i></div>
                         <div><i class="fab fa-linkedin">   CacttusEdu</i></div>
