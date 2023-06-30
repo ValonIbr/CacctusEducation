@@ -23,8 +23,9 @@ function VMS() {
                         <h3 className='main-heading'>What we offer for you</h3>
                         <div className='underlineVmc mx-auto'></div>
                     </div>
-                    
-                    <div className="col-md-4">   <div data-aos="flip-right">
+                 
+                    <div className="col-md-4">   
+                    <div data-aos="zoom-in-right">
                         <div  className="card shadow">
                             <img src="photo" alt="" className='w-100 border-bottom' />
                             <div className="card-body">
@@ -41,8 +42,9 @@ function VMS() {
 
                     </div>
                     </div>
-                
-                    <div className="col-md-4">     <div data-aos="flip-right">
+                 
+                    <div className="col-md-4">    
+                    <div data-aos="zoom-in-right">
                         <div  className="card shadow">
                             <img src="photo" alt="" className='w-100 border-bottom' />
                             <div className="card-body">
@@ -59,7 +61,8 @@ function VMS() {
 </div>
                     </div>
                    
-                    <div className="col-md-4" >  <div data-aos="flip-right">
+                    <div className="col-md-4" > 
+                    <div data-aos="zoom-in-right">
                         <div className="card shadow">
                             <img src="photo" alt="" className='w-100 border-bottom' />
                             <div className="card-body">

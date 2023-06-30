@@ -4,8 +4,11 @@ import emailjs from '@emailjs/browser';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import { useEffect } from 'react';
+import 'react-toastify/dist/ReactToastify.css';
+import { ToastContainer, toast } from 'react-toastify';
 function Contactus() {
     const form = useRef();
+    const notify = () => toast.success("Jeni regjistruar me sukses")
 useEffect(() => {
         AOS.init();
       }, [])
@@ -79,7 +82,7 @@ useEffect(() => {
                                             <textarea rows="3" className='form-control' placeholder='Type your message' name="user_message"></textarea>
                                         </div>
                                         <div className="form-group py-3">
-                                            <button type='submit' className='btn btn-dark shadow w-100' value="Send">Send Message</button>
+                                            <button onClick={notify} type='submit' className='btn btn-dark shadow w-100' value="Send">Send Message</button>
                                         </div></form>
                                 </div>
                                 <div className="col-md-6 border-start">
@@ -91,6 +94,25 @@ useEffect(() => {
                                     <p>Name: Cacttus Education</p>
                                     
                                 </div>
+                                <div>
+        
+    
+    <ToastContainer
+    
+position="top-right"
+autoClose={5000}
+hideProgressBar={false}
+newestOnTop={false}
+closeOnClick
+rtl={false}
+pauseOnFocusLoss
+draggable
+pauseOnHover
+theme="light"
+/>
+{/* Same as */}
+<ToastContainer />
+    </div>
 
                             </div>
                         </div>
