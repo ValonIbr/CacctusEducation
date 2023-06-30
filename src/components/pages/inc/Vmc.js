@@ -25,9 +25,9 @@ function VMS() {
                     </div>
                  
                     <div className="col-md-4">   
-                   
+                    <div data-aos="zoom-in-right">
                         <div  className="card shadow">
-                            <img src="photo" alt="" className='w-100 border-bottom' />
+                         
                             <div className="card-body">
                                 <h6>Training</h6>
                                 <div className="underline"></div>
@@ -38,15 +38,15 @@ function VMS() {
                                 </p>
                                 <Link to="/training" className="btn btn-dark shadow w-100">Read More</Link>
                             </div>
-                  </div>
+                  </div></div>
 
              
                     </div>
                  
                     <div className="col-md-4">    
-                   
+                    <div data-aos="zoom-in-right">
                         <div  className="card shadow">
-                            <img src="photo" alt="" className='w-100 border-bottom' />
+                            
                             <div className="card-body">
                                 <h6>School</h6>
                                 <div className="underline"></div>
@@ -57,14 +57,14 @@ function VMS() {
                                 </p>
                                 <Link to="/school" className="btn btn-dark shadow w-100">Read More</Link>
                             </div>
-                 
+                 </div>
 </div>
                     </div>
                    
                     <div className="col-md-4" > 
-                   
+                    <div data-aos="zoom-in-right">
                         <div className="card shadow">
-                            <img src="photo" alt="" className='w-100 border-bottom' />
+                     
                             <div className="card-body">
                                 <h6>Work</h6>
                                 <div className="underline"></div>
@@ -76,7 +76,7 @@ function VMS() {
                                 <Link to="/work" className="btn btn-dark shadow w-100">Read More</Link>
                             </div>
                         
-
+</div>
                    </div>
                     </div>
                 </div>
